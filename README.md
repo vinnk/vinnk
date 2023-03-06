@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nikita Rai.
-- 🌱 I’m currently learning c++ and Java.
-- 💞️ I’m looking to collaborate on c++ projects, for now.
+- 🌱 I’m a Java coder.
+- I’m looking forward to contribute on java projects, for now.
+- i'm learning web-development, cryptology and network security.
 - 📫 How to reach me: https://www.linkedin.com/in/nikita-rai-503308208
 
 <!---
